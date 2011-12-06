@@ -1,3 +1,10 @@
+
+[...]
+
+default_asides: [asides/recent_posts.html, asides/twitter.html,asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html, 'custom/asides/flickr.html']
+
+[...]
+
 flickr_userid: your_user_id
 flickr_nickname: your_nickname
 flickr_apikey: your_apikey
